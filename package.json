@@ -18,10 +18,6 @@
   "keywords": [
     "react-component"
   ],
-  "peerDependencies": {
-    "react": ">=15",
-    "prop-types": ">=15.6.0"
-  },
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^7.1.2",
